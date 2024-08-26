@@ -7,7 +7,7 @@ body {
     align-content: center;
     overflow: scroll;
     font-family: "Inter", "Lexend Deca";
-    padding: 1rem;
+    padding-top: 15rem;
 }
 
 .card {
