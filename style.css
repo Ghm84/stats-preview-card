@@ -62,7 +62,7 @@ p {
     font-size: 0.95rem;
     font-weight: 400;
     max-width: 100%;
-    width: 50%;
+    width: 65%;
     margin-top: 2rem;
     margin-left: 5rem;
     text-align: left;
@@ -74,7 +74,7 @@ p {
     display: flex;
     flex-direction: row;
     position: absolute;
-    margin-top: 20rem;
+    margin-top: 19.5rem;
     margin-left: 4rem;
     margin-bottom: 0;
     padding: 0;
