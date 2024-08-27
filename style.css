@@ -9,7 +9,7 @@ body {
     font-family: "Inter", "Lexend Deca";
     padding: 1rem;
     margin-left: 5rem;
-    margin-top: 3rem;
+    margin-top: 1rem;
 }
 
 .card {
@@ -19,7 +19,7 @@ body {
     max-width: 100%;
     width: 80%;
     height: 63%;
-    margin-top: 35rem;
+    margin-top: 40rem;
     margin-left: 5rem;
     border-radius: 0.5rem;
     padding-bottom: 5rem;
